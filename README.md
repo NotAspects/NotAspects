@@ -13,7 +13,7 @@
 Hi, I'm Aspect, a passionate CSharp, JavaScript developer from France.
 
 - 🔭 I’m currently working on [Nexus-Hardware](https://nexus-hardware.fr/) and [FastNexus](https://github.com/NotAspects/FastNexusOnline)
-- 🌱 I’m currently learning JavaScript, CSharp, Python
+- 🌱 I am a Python, JavaScript and CSharp developer
 - 💬 Ask me about anything [Here](https://github.com/NotAspects/profil/issues)
 
 ## Languages/Techs 📚
