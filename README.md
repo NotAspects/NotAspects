@@ -2,9 +2,7 @@
 
 ### Hi there, I'm [Aspect](https://twitter.com/NexusHardware) 👋
 
-<a href="https://twitter.com/NexusHardware">
-
-<br />
+<br/>
 
 Hi, I'm Aspect, a passionate CSharp, JavaScript developer from France.
 
