@@ -1,4 +1,4 @@
-[![Header](https://pixelrex.art/Aspect.jpg "Header")](https://twitter.com/NexusHardware)
+[![Header](https://pixelrex.art/pfp.png "Header")](https://twitter.com/NexusHardware)
 
 ### Hi there, I'm [Aspect](https://twitter.com/NexusHardware) 👋
 
