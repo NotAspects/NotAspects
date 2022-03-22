@@ -1,6 +1,6 @@
 [![Header](https://pixelrex.art/as.png "Header")](https://twitter.com/NexusHardware)
 
-### Hi there, I'm [Aspect](https://twitter.com/NexusHardware) 👋
+### Hi there, I'm [Aspect](https://pixelrex.art/as.png "Header")👋
 
 <br/>
 
