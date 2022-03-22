@@ -7,8 +7,8 @@
 
 Hi, my name is Aspect, I'm a blockchain enthusiast, I'm also turned to cyber IT security and developer in my spare time.
 
-- 🔭Formerly the creator of [Nexus-Hardware](https://nexus-hardware.fr/) and [FastNexus](https://github.com/NotAspects/FastNexusOnline)
-- 🌱 I’m currently learning Solidity, TypeScript.
+- Formerly the creator of [Nexus-Hardware](https://nexus-hardware.fr/) and [FastNexus](https://github.com/NotAspects/FastNexusOnline)
+- I’m currently learning Solidity, TypeScript.
 
 ## Languages/Techs 📚
 <p>
