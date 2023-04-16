@@ -5,7 +5,7 @@
 
 <br/>
 
-Hi, my name is Aspect, I'm a blockchain enthusiast, I'm also turned to cyber IT security and developer in my spare time.
+Hi, my name is Aspect, I'm a tweaking maniac, I'm also turned to cyber IT security and developer in my spare time.
 
 - Formerly the creator of Nexus-Hardware and [FastNexus](https://github.com/NotAspects/FastNexusOnline) - Founder of [EverBlack](https://everblack.xyz)
 
