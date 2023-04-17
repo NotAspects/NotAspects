@@ -1,7 +1,7 @@
 [![Header](https://i.imgur.com/Hb5MoNi.png "Header")](https://twitter.com/Dra3fcs)
 
 
-### Hi there, I'm [Aspect](https://pixelrex.art/as.png "Header")👋
+### Hi there, I'm [Aspect](https://pixelrex.art/as.png "Header")👨‍💻
 
 <br/>
 
