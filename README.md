@@ -7,4 +7,4 @@
 
 Hi, my name is Aspect, I'm a tweaking maniac, I'm also turned to cyber IT security and developer in my spare time.
 
-- CEO of Nexus-Hardware and [FastNexus](https://github.com/NotAspects/FastNexusOnline) - Founder of [EverBlack](https://everblack.xyz)
+- CEO of Nexus-Hardware and [FastNexus](https://github.com/NotAspects/FastNexusOnline) - Founder of [EverBlack](https://everblack.xyz) - Developper of [Hone](https://github.com/auraside/HoneCtrl)
