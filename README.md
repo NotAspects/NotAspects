@@ -20,7 +20,6 @@ const aspect = {
     currentFocus: ["Carbon Development"],
     OlderFocus: ["FastNexus, XConvert, Hone],
     passion: "System Tweaking & Cybersecurity",
-    availability: "Open for collaboration"
 };
 ```
 
